@@ -1,0 +1,15 @@
+C:\Users\laris\Documents\DS Larissa\DS\bin\Debug\net8.0\DS.exe
+C:\Users\laris\Documents\DS Larissa\DS\bin\Debug\net8.0\DS.deps.json
+C:\Users\laris\Documents\DS Larissa\DS\bin\Debug\net8.0\DS.runtimeconfig.json
+C:\Users\laris\Documents\DS Larissa\DS\bin\Debug\net8.0\DS.dll
+C:\Users\laris\Documents\DS Larissa\DS\bin\Debug\net8.0\DS.pdb
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\DS.AssemblyInfoInputs.cache
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\DS.AssemblyInfo.cs
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\DS.csproj.CoreCompileInputs.cache
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\DS.sourcelink.json
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\DS.dll
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\refint\DS.dll
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\DS.pdb
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\DS.genruntimeconfig.cache
+C:\Users\laris\Documents\DS Larissa\DS\obj\Debug\net8.0\ref\DS.dll
